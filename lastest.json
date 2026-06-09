@@ -1,0 +1,11 @@
+{
+    "version": "070626",
+    "models": {
+        "A": {
+            "base": "https://raw.githubusercontent.com/fabg05/biollave-esp32-firmware/main/A/"
+        },
+        "B": {
+            "base": "https://raw.githubusercontent.com/fabg05/biollave-esp32-firmware/main/B/"
+        }
+    }
+}
