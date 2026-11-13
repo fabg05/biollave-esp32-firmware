@@ -1,5 +1,5 @@
 {
-    "version": "010826",
+    "version": "011026",
     "models": {
         "A": {
             "base": "https://raw.githubusercontent.com/fabg05/biollave-esp32-firmware/main/A/"
